@@ -73,12 +73,12 @@
         ]
       },
       {
-        "name": "pubDate",
+        "name": "publish-date",
         "label": "Publish date",
         "widget": "datetime"
       },
       {
-        "name": "updatedDate",
+        "name": "updated-date",
         "label": "Last updated",
         "widget": "datetime",
         "required": false
@@ -96,7 +96,7 @@
         "required": false
       },
       {
-        "name": "featuredImage",
+        "name": "featured-image",
         "label": "Featured image",
         "widget": "image",
         "required": false
@@ -219,7 +219,7 @@
         "required": false
       },
       {
-        "name": "featuredImage",
+        "name": "featured-image",
         "label": "Featured image",
         "widget": "image",
         "required": false
